@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'kayisbae') {
+    	message.reply('https://gyazo.com/951b706ed53916d5648b0028e3af83c0');
   	}
 });
 
